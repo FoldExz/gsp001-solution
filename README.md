@@ -87,9 +87,9 @@ gcloud compute ssh gcelab2 --zone=us-east1-b
 
 ## Task 4: Test Your Knowledge
 
-✅ Ways to create a VM instance in Compute Engine:  
-- [x] The gcloud command line tool  
-- [x] The Cloud Console
+Ways to create a VM instance in Compute Engine:  
+- ✅ The gcloud command line tool  
+- ✅ The Cloud Console
 
 ---
 
